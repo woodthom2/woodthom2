@@ -1,5 +1,16 @@
 # Thomas Wood
 
+<a href="https://fastdatascience.com"><span align="left">🌐 fastdatascience.com</span></a>
+<a href="https://freelancedatascientist.net"><span align="left">🌐 freelancedatascientist.net</span></a>
+<a href="https://www.linkedin.com/in/woodthom/"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/linkedin.svg" alt="Thomas Wood | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/fastdatascienc1"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/x.svg" alt="Fast Data Science | X" width="21px"/></a>
+<a href="https://www.instagram.com/fastdatascience/"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/instagram.svg" alt="Fast Data Science | Instagram" width="21px"/></a>
+<a href="https://www.facebook.com/fastdatascienceltd"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/fb.svg" alt="Fast Data Science | Facebook" width="21px"/></a>
+<a href="https://www.youtube.com/channel/UCLPrDH7SoRT55F6i50xMg5g"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/yt.svg" alt="Fast Data Science | YouTube" width="21px"/></a>
+<a href="https://g.page/fast-data-science"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/google.svg" alt="Fast Data Science | Google" width="21px"/></a>
+<a href="https://medium.com/fast-data-science"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/medium.svg" alt="Fast Data Science | Medium" width="21px"/></a>
+<a href="https://mastodon.social/@fastdatascience"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/mastodon.svg" alt="Fast Data Science | Mastodon" width="21px"/></a>
+
 I am the director of natural language processing company Fast Data Science Ltd, which can be found at [https://fastdatascience.com](https://fastdatascience.com).
 
 I am passionate about using data science and natural language processing to solve real-world problems. I have a MPhil in Computer Speech, Text and Internet Technology from the University of Cambridge, and I have worked on a variety of projects in the healthcare, financial services, and telecommunications industries.
@@ -18,6 +29,7 @@ You can contact me at [https://fastdatascience.com/contact](https://fastdatascie
 * [Fast Data Science blog](https://fastdatascience.com/blog/)
 * [Harmony project repo](http://harmonydata.ac.uk/) ([repo](https://github.com/harmonydata/harmony))
 * [Clinical Trial Risk Tool](https://fastdatascience.com/clinical-trial-risk-tool/) ([repo](https://github.com/fastdatascience/clinical_trial_risk))
+* [Cantab profile](https://www.cantab.net/users/thomas.wood/)
 
 # Other open source libraries
 
