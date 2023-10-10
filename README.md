@@ -1,5 +1,7 @@
 # Thomas Wood
 
+<div>
+  
 <a href="https://fastdatascience.com"><span align="left">🌐 fastdatascience.com</span></a>
 <a href="https://freelancedatascientist.net"><span align="left">🌐 freelancedatascientist.net</span></a>
 <a href="https://www.cantab.net/users/thomas.wood/"><span align="left">🌐 www.cantab.net/users/thomas.wood/</span></a>
@@ -14,6 +16,7 @@
 <a href="https://medium.com/fast-data-science"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/medium.svg" alt="Fast Data Science | Medium" width="21px"/></a>
 <a href="https://mastodon.social/@fastdatascience"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/mastodon.svg" alt="Fast Data Science | Mastodon" width="21px"/></a>
 
+</div>
 
 
 I am the director of natural language processing company Fast Data Science Ltd, which can be found at [https://fastdatascience.com](https://fastdatascience.com).
