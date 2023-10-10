@@ -3,6 +3,8 @@
 <a href="https://fastdatascience.com"><span align="left">🌐 fastdatascience.com</span></a>
 <a href="https://freelancedatascientist.net"><span align="left">🌐 freelancedatascientist.net</span></a>
 <a href="https://www.cantab.net/users/thomas.wood/"><span align="left">🌐 www.cantab.net/users/thomas.wood/</span></a>
+
+
 <a href="https://www.linkedin.com/in/woodthom/"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/linkedin.svg" alt="Thomas Wood | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/fastdatascienc1"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/x.svg" alt="Fast Data Science | X" width="21px"/></a>
 <a href="https://www.instagram.com/fastdatascience/"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/instagram.svg" alt="Fast Data Science | Instagram" width="21px"/></a>
