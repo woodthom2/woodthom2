@@ -14,6 +14,8 @@
 <a href="https://medium.com/fast-data-science"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/medium.svg" alt="Fast Data Science | Medium" width="21px"/></a>
 <a href="https://mastodon.social/@fastdatascience"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/mastodon.svg" alt="Fast Data Science | Mastodon" width="21px"/></a>
 
+
+
 I am the director of natural language processing company Fast Data Science Ltd, which can be found at [https://fastdatascience.com](https://fastdatascience.com).
 
 I am passionate about using data science and natural language processing to solve real-world problems. I have a MPhil in Computer Speech, Text and Internet Technology from the University of Cambridge, and I have worked on a variety of projects in the healthcare, financial services, and telecommunications industries.
