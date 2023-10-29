@@ -24,7 +24,7 @@
 
 I am the director of natural language processing company Fast Data Science Ltd, which can be found at [https://fastdatascience.com](https://fastdatascience.com).
 
-I am passionate about using data science and natural language processing to solve real-world problems. I have a MPhil in Computer Speech, Text and Internet Technology from the University of Cambridge, and I have worked on a variety of projects in the healthcare, financial services, and telecommunications industries.
+I am passionate about using data science and natural language processing to solve real-world problems. I have a MPhil in Computer Speech, Text and Internet Technology from the University of Cambridge, and I have worked on a variety of projects in the [healthcare](https://fastdatascience.com/ai-in-healthcare/), [pharmaceutical](https://fastdatascience.com/ai-in-pharma/), financial services, and telecommunications industries.
 
 I am also an active member of the open source community, and I have contributed to a number of open source projects, including the [Harmony project](http://harmonydata.ac.uk/) and the [Clinical Trial Risk Tool](https://clinicaltrialrisk.org) which was funded by the Gates Foundation and [won the Plotly Dash Apps challenge](https://fastdatascience.com/clinical-trial-risk-tool-wins-plotly-dash-challenge/) in 2023.
 
@@ -35,6 +35,9 @@ I am always looking for new challenges, and I am excited to see what the future 
 # Contact
 
 You can contact me at [https://fastdatascience.com/contact](https://fastdatascience.com/contact).
+
+[![Linkedin Badge](https://img.shields.io/badge/-woodthom-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woodthom/)](https://www.linkedin.com/in/woodthom/)
+[![Twitter Badge](https://img.shields.io/badge/-fastdatascienc1-blue?logo=twitter&logoColor=white&link=https://twitter.com/fastdatascienc1)](https://twitter.com/fastdatascienc1)
 
 # Links
 
