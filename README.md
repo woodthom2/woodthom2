@@ -19,6 +19,8 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=woodthom2" alt="profile counter badge" />
+
 
 I am the director of natural language processing company Fast Data Science Ltd, which can be found at [https://fastdatascience.com](https://fastdatascience.com).
 
@@ -27,6 +29,8 @@ I am passionate about using data science and natural language processing to solv
 I am also an active member of the open source community, and I have contributed to a number of open source projects, including the [Harmony project](http://harmonydata.ac.uk/) and the [Clinical Trial Risk Tool](https://clinicaltrialrisk.org) which was funded by the Gates Foundation and [won the Plotly Dash Apps challenge](https://fastdatascience.com/clinical-trial-risk-tool-wins-plotly-dash-challenge/) in 2023.
 
 I am always looking for new challenges, and I am excited to see what the future holds for data science and natural language processing.
+
+<img src="https://github-readme-stats.vercel.app/api?username=woodthom2&?count_private=true&show_icons=true" alt="Thomas Wood" align="center" />
 
 # Contact
 
