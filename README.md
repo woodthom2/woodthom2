@@ -49,13 +49,29 @@ You can contact me at [https://fastdatascience.com/contact](https://fastdatascie
 
 # Other open source libraries
 
-* [Localspelling (Github repo)](https://github.com/fastdatascience/localspelling) - a library for localising spelling between US and UK variants. [![PyPI package](https://img.shields.io/badge/pip%20install-localspelling-brightgreen)](https://pypi.org/project/localspelling/) install from the command line with `pip install localspelling`
+## Local spelling
 
-* [country_named_entity_recognition (Github repo)](https://github.com/fastdatascience/country_named_entity_recognition) - a lightweight Python library for recognising country names in unstructured text and returning Pycountry objects `pip install country_named_entity_recognition`
+[Localspelling (Github repo)](https://github.com/fastdatascience/localspelling) - a library for localising spelling between US and UK variants.
 
-* [drug_named_entity_recognition (Github repo)](https://github.com/fastdatascience/drug_named_entity_recognition) - a lightweight Python library for recognising drug names in unstructured text `pip install drug-named-entity-recognition`
+[![PyPI package](https://img.shields.io/badge/pip%20install-localspelling-brightgreen)](https://pypi.org/project/localspelling/) install from the command line with `pip install localspelling`
 
-* [Fast Stylometry (Github repo)](https://github.com/fastdatascience/faststylometry) - a Python library for forensic stylometry.  `pip install faststylometry`. [Read tutorial](https://freelancedatascientist.net/fast-stylometry-tutorial/).
+## Country named entity recognition
+
+[country_named_entity_recognition (Github repo)](https://github.com/fastdatascience/country_named_entity_recognition) - a lightweight Python library for recognising country names in unstructured text and returning Pycountry objects.
+
+[![PyPI package](https://img.shields.io/badge/pip%20install-country_named_entity_recognition-brightgreen)](https://pypi.org/project/country_named_entity_recognition/) install from the command line with `pip install country_named_entity_recognition` 
+
+## Drug named entity recognition
+
+[drug_named_entity_recognition (Github repo)](https://github.com/fastdatascience/drug_named_entity_recognition) - a lightweight Python library for recognising drug names in unstructured text
+
+[![PyPI package](https://img.shields.io/badge/pip%20install-drug_named_entity_recognition-brightgreen)](https://pypi.org/project/drug_named_entity_recognition/) install from the command line with `pip install drug-named-entity-recognition` 
+
+## Fast Stylometry
+
+[Fast Stylometry (Github repo)](https://github.com/fastdatascience/faststylometry) - a Python library for forensic stylometry.  [Read tutorial here](https://fastdatascience.com/fast-stylometry-python-library/).
+
+[![PyPI package](https://img.shields.io/badge/pip%20install-faststylometry-brightgreen)](https://pypi.org/project/faststylometry/) install from the command line with `pip install faststylometry` 
 
 # Blog
 
