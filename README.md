@@ -40,7 +40,7 @@ You can contact me at [https://fastdatascience.com/contact](https://fastdatascie
 [![Twitter Badge](https://img.shields.io/badge/-fastdatascienc1-blue?logo=twitter&logoColor=white&link=https://twitter.com/fastdatascienc1)](https://twitter.com/fastdatascienc1)
 [![Github Badge](https://img.shields.io/github/stars/woodthom2)](https://github.com/woodthom2)
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCLPrDH7SoRT55F6i50xMg5g)](https://www.youtube.com/channel/UCLPrDH7SoRT55F6i50xMg5g)
-
+[![Mastodon](https://img.shields.io/mastodon/follow/111058516394738086)](https://mastodon.social/@fastdatascience)
 
 
 # Links
