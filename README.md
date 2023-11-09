@@ -39,6 +39,7 @@ You can contact me at [https://fastdatascience.com/contact](https://fastdatascie
 [![Linkedin Badge](https://img.shields.io/badge/-woodthom-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woodthom/)](https://www.linkedin.com/in/woodthom/)
 [![Twitter Badge](https://img.shields.io/badge/-fastdatascienc1-blue?logo=twitter&logoColor=white&link=https://twitter.com/fastdatascienc1)](https://twitter.com/fastdatascienc1)
 [![Github Badge](https://img.shields.io/github/stars/woodthom2)](https://github.com/woodthom2)
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCLPrDH7SoRT55F6i50xMg5g)](https://www.youtube.com/channel/UCLPrDH7SoRT55F6i50xMg5g)
 
 
 
