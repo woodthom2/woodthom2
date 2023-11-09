@@ -49,7 +49,7 @@ You can contact me at [https://fastdatascience.com/contact](https://fastdatascie
 
 # Other open source libraries
 
-* [Localspelling (Github repo)](https://github.com/fastdatascience/localspelling) - a library for localising spelling between US and UK variants - install from the command line with `pip install localspelling`
+* [Localspelling (Github repo)](https://github.com/fastdatascience/localspelling) - a library for localising spelling between US and UK variants. [![PyPI package](https://img.shields.io/badge/pip%20install-localspelling-brightgreen)](https://pypi.org/project/localspelling/) install from the command line with `pip install localspelling`
 
 * [country_named_entity_recognition (Github repo)](https://github.com/fastdatascience/country_named_entity_recognition) - a lightweight Python library for recognising country names in unstructured text and returning Pycountry objects `pip install country_named_entity_recognition`
 
